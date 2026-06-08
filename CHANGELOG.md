@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.5.1](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/compare/0.5.0...0.5.1) (2026-06-08)
+
+### Code Refactoring
+
+* update repository references to new project name ([b389f6c](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/commit/b389f6cec905215d2cbac47728b35252e6be77e9)), closes [#35](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/issues/35)
+
 ## [0.5.0](https://github.com/juancarlosjr97/renovate-configuration/compare/0.4.0...0.5.0) (2026-05-15)
 
 ### Features
