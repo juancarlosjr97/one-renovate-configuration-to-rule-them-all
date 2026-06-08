@@ -7,7 +7,7 @@
         {
             "customType": "regex",
             "datasourceTemplate": "github-releases",
-            "depNameTemplate": "juancarlosjr97/renovate-configuration",
+            "depNameTemplate": "juancarlosjr97/one-renovate-configuration-to-rule-them-all",
             "fileMatch": [
                 "^renovate\\.json5?$",
                 "^\\.github/renovate\\.json5?$",
@@ -16,9 +16,9 @@
                 "^\\.renovaterc$"
             ],
             "matchStrings": [
-                "\"github>juancarlosjr97/renovate-configuration#(?<currentValue>[^\" \\n\\(]+)",
-                "\"github>juancarlosjr97/renovate-configuration:.*#(?<currentValue>[^\" \\n\\(]+)",
-                "\"github>juancarlosjr97/renovate-configuration/.*#(?<currentValue>[^\" \\n\\(]+)"
+                "\"github>juancarlosjr97/one-renovate-configuration-to-rule-them-all#(?<currentValue>[^\" \\n\\(]+)",
+                "\"github>juancarlosjr97/one-renovate-configuration-to-rule-them-all:.*#(?<currentValue>[^\" \\n\\(]+)",
+                "\"github>juancarlosjr97/one-renovate-configuration-to-rule-them-all/.*#(?<currentValue>[^\" \\n\\(]+)"
             ]
         }
     ],
