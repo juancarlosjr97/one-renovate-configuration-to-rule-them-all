@@ -12,9 +12,6 @@
         "release": true,
         "releaseName": "${version}"
     },
-    "hooks": {
-        "after:bump": "node -e \"const fs=require('fs');const path='README.md';const version='${version}';const readme=fs.readFileSync(path,'utf8');const pattern=/(github>juancarlosjr97\\/one-renovate-configuration-to-rule-them-all#)[^\\\"\\n]+/;const updated=readme.replace(pattern,(_,prefix)=>prefix+version);if(readme!==updated){fs.writeFileSync(path,updated);}\""
-    },
     "plugins": {
         "@release-it/conventional-changelog": {
             "gitRawCommitsOpts": {
@@ -78,10 +75,10 @@
                 "file": "VERSION",
                 "type": "text/plain"
             },
-            "out": {
-                "file": "VERSION",
-                "type": "text/plain"
-            }
+            "out": [
+                "VERSION",
+                "README.md"
+            ]
         }
     }
 }
