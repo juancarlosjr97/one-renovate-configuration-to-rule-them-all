@@ -9,7 +9,7 @@ Please use the latest tag as a reference from the [latest release](https://githu
 ```json
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["github>juancarlosjr97/one-renovate-configuration-to-rule-them-all#x.y.z"]
+  "extends": ["github>juancarlosjr97/one-renovate-configuration-to-rule-them-all#0.5.1"]
 }
 ```
 
