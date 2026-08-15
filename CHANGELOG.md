@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.6.0](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/compare/0.5.1...0.6.0) (2026-08-15)
+
+### Features
+
+* automate README usage tag updates during release-it version bumps ([#38](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/issues/38)) ([513063b](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/commit/513063b0dcdb11f15c33b94b0c80f5906d1a725d))
+
 ## [0.5.1](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/compare/0.5.0...0.5.1) (2026-06-08)
 
 ### Code Refactoring
