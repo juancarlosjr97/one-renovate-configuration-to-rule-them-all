@@ -45,8 +45,7 @@
             "description": "Skip remediation delay for trusted Node and Docker Node packages",
             "matchPackageNames": [
                 "node",
-                "node-slim",
-                "node-alpine"
+                "docker.io/library/node"
             ],
             "minimumReleaseAge": "0 days"
         }
