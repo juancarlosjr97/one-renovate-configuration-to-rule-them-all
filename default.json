@@ -44,7 +44,7 @@
         {
             "description": "Skip remediation delay for trusted Node and Docker Node packages",
             "matchPackageNames": [
-                "node",
+                "node-version",
                 "docker.io/library/node"
             ],
             "minimumReleaseAge": "0 days"
