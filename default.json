@@ -42,5 +42,8 @@
             "allowedVersions": "<6.0.0"
         }
     ],
+    "lockFileMaintenance": {
+        "enabled": false
+    },
     "platformAutomerge": true
 }
