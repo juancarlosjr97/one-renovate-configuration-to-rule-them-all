@@ -3,6 +3,12 @@
 This changelog is auto generated using release-it.
 
 
+## [0.7.0](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/compare/0.6.0...0.7.0) (2026-08-17)
+
+### Features
+
+* disable lockFileMaintenance ([#40](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/issues/40)) ([1ba0d2c](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/commit/1ba0d2c4f0b848283b75596b2302a4f880bce9af))
+
 ## [0.6.0](https://github.com/juancarlosjr97/one-renovate-configuration-to-rule-them-all/compare/0.5.1...0.6.0) (2026-08-15)
 
 ### Features
